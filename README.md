@@ -1,3 +1,3 @@
 # nmap-and-port-scanner
 
-Here's a bsic nmap scanner and port scanner in python
+Here's a bsic Nmap scanner, Port scanner and a BannerGrabber in python
